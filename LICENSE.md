@@ -1,4 +1,4 @@
-# 
+# Natif GIMP outils pour Mac OS | VIP GIMP outils pour PC Windows. Avec chaînage de texte et timeline d'animation — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
